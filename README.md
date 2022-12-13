@@ -29,15 +29,16 @@ The data set contains the following diseases:
 > Solution Stratgy: 
 Divided analysis in below mentioned border catogry
 ### Pipeline
-#### Data Reading/Data Understanding
-#### Dataset Creation
-#### Dataset visualisation
-#### Model Building & training
-#### Chose an appropriate data augmentation strategy to resolve underfitting/overfitting
-#### Model Building & training on the augmented data
-#### Class distribution
-#### Handling class imbalances
-#### Model Building & training on the rectified class imbalance data
+
+- Data Reading/Data Understanding
+ Dataset Creation
+- Dataset visualisation
+- Model Building & training
+- Chose an appropriate data augmentation strategy to resolve underfitting/overfitting
+- Model Building & training on the augmented data
+- Class distribution
+- Handling class imbalances
+- Model Building & training on the rectified class imbalance data
 
 
 ## Conclusions
