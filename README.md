@@ -42,9 +42,8 @@ Divided analysis in below mentioned border catogry
 
 
 ## Conclusions
-- The optimal lambda value in case of Ridge and Lasso is as below:
-    - Ridge - 2
-    - Lasso - 0.0001
+- It has been Observed when we ran the first model with Raw data provided with Rescaling. Though model Train accuracy was good but it realuts in loss with Validation data Which Results in Overfitting and overall Accuracy of 50%
+- Data Augmentation technique applied and Resolving the calss imbalce result in good imporvement where no big loss with valdation found.Overall accuracy reached to 77%
 
 ## Technologies Used
 -  Google Colab with Python using GPU for CNN.
